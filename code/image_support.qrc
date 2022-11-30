@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/options_menuback.jpg</file>
+        <file>image/SelectorScreen_StartAdventure_Button1.png</file>
+        <file>image/SelectorScreen_StartAdventure_Highlight.png</file>
+        <file>image/SelectorScreen_Survival_button.png</file>
+        <file>image/SelectorScreen_Survival_highlight.png</file>
+        <file>image/SelectorScreen_WoodSign1.png</file>
+        <file>image/titlescreen.jpg</file>
+        <file>image/brain.png</file>
+        <file>image/LoadBar_dirt.png</file>
+        <file>image/LoadBar_grass.png</file>
+        <file>image/pvz_logo.png</file>
+        <file>image/SelectorScreen_BG_Left.png</file>
+        <file>image/SelectorScreen_BG_Right.png</file>
+        <file>image/selector_center.png</file>
+        <file>image/SelectorScreen_BG.png</file>
+        <file>image/SelectorScreen_Quit1.png</file>
+        <file>image/SelectorScreen_Quit2.png</file>
+        <file>image/SelectorScreen_Shadow_StartAdventure.png</file>
+        <file>image/SelectorScreen_Leaves.png</file>
+        <file>image/SelectorScreen_Vasebreaker_button.png</file>
+        <file>image/SelectorScreen_vasebreaker_highlight.png</file>
+        <file>image/SelectorScreen_Challenges_button.png</file>
+        <file>image/SelectorScreen_Challenges_highlight.png</file>
+        <file>image/SelectorScreen_WoodSign2.png</file>
+        <file>image/SelectorScreen_WoodSign2_press.png</file>
+        <file>image/SelectorScreen_Shadow_ZenGarden.png</file>
+        <file>image/SelectorScreen_Cloud1.png</file>
+        <file>image/SelectorScreen_Cloud4.png</file>
+        <file>image/SelectorScreen_Help2.png</file>
+        <file>image/SelectorScreen_Options1.png</file>
+        <file>image/SelectorScreen_Options2.png</file>
+        <file>image/SelectorScreen_Help1.png</file>
+        <file>image/Almanac_GroundDay.jpg</file>
+        <file>image/SeedChooser_Button.png</file>
+        <file>image/SeedChooser_Button2.png</file>
+        <file>plants_info.txt</file>
+        <file>zombies_info.txt</file>
+        <file>image/glove.png</file>
+        <file>field_info.txt</file>
+        <file>image/pause.png</file>
+        <file>image/start.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/image_3/BucketheadZombie.gif</file>
+        <file>image/image_3/BucketheadZombieAttack.gif</file>
+        <file>image/image_3/ConeheadZombie.gif</file>
+        <file>image/image_3/ConeheadZombieAttack.gif</file>
+        <file>image/image_3/Zombie.gif</file>
+        <file>image/image_3/ZombieAttack.gif</file>
+        <file>image/image_3/ZombieDie.gif</file>
+        <file>image/Help.png</file>
+        <file>image/image_3/balloon.png</file>
+        <file>image/image_3/catapultzombie.png</file>
+        <file>image/image_3/tomb.png</file>
+    </qresource>
+</RCC>

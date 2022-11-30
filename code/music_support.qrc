@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/music/bullet_hit.wav</file>
+        <file>image/music/collecting.wav</file>
+        <file>image/music/game_lose.wav</file>
+        <file>image/music/planting.wav</file>
+        <file>image/music/start_background.wav</file>
+        <file>image/music/wait_background.wav</file>
+        <file>image/music/zombie_eat1.wav</file>
+        <file>image/music/zombie_eat2.wav</file>
+        <file>image/music/zombie_eat3.wav</file>
+    </qresource>
+</RCC>
